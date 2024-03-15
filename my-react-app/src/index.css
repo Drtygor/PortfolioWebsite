@@ -27,3 +27,32 @@
   margin: 0;
   color: hsla(0, 0%, 0%, 30%);
 }
+
+.project {
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+}
+
+.project p {
+  margin: 0;
+}
+
+.welcome-message {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0;
+}
+
+.guest-message {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0;
+}
